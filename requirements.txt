@@ -1,0 +1,15 @@
+cffi==1.14.5
+click==8.0.0
+colorama==0.4.4
+cryptography==3.4.7
+Flask==2.0.0
+itsdangerous==2.0.1
+Jinja2==3.0.1
+jwt==1.2.0
+MarkupSafe==2.0.1
+peewee==3.14.4
+pycparser==2.20
+PyJWT==1.7.1
+PyMySQL==1.0.2
+python-dotenv==0.17.1
+Werkzeug==2.0.1
